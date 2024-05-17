@@ -8,6 +8,7 @@ class PracticecicdApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Assertions.assertTrue(false);
 	}
 
 }
